@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm **Disha Dewangan**, a passionate **web developer** from India and a **2nd-year college student**. I love building modern, user-friendly web applications and exploring the latest technologies.  <br><br>🚀 Crafting dynamic, responsive web experiences  <br>💡 Always experimenting with new tech  <br>🎯 Aspiring to build impactful digital solutions  
+I'm **Disha Dewangan**, a passionate **web developer** from India and a **2nd-year college student**.  Aspiring to build impactful digital solutions  
 
 
 ## 🌐 Socials:
