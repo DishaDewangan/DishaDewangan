@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Disha%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+apps;MERN+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Always+shipping+something+new!&font=Fira%20Code&center=true&width=550&height=50&color=6C63FF&vCenter=true&size=22&pause=1500" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+apps;MERN+Stack+Developer;Machine+Learning+Enthusiast;Always+shipping+something+new!&font=Fira%20Code&center=true&width=550&height=50&color=6C63FF&vCenter=true&size=22&pause=1500" />
 
 <br/>
 
