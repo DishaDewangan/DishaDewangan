@@ -24,7 +24,7 @@ Experience: Full Stack Developer Intern @ Unified Mentor Pvt. Ltd.
 Certified: Oracle Certified Professional — Java SE 17 Developer
 ```
 
-- 🔭 I'm currently building **full-stack + AI-powered applications** (interview prep tools, LMS platforms, ML systems)
+- 🔭 I've built **full-stack + AI-powered applications** (interview prep tools, LMS platforms, ML systems)
 - 💼 Worked as a **Full Stack Developer Intern** at Unified Mentor, building a role-based job portal used by recruiters & applicants
 - 🌱 Deepening my knowledge of **DSA, System Design & Generative AI**
 - 💬 Ask me about **MERN Stack, Machine Learning, or Java**
