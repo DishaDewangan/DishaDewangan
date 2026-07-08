@@ -17,11 +17,11 @@
 ## 🚀 About Me
 
 ```yaml
-name: Disha Dewangan
-role: Final Year B.Tech CSE (AI/ML) Student @ SRM University AP | Class of 2027 | CGPA: 9.19/10
-focus: Full-Stack Development (MERN) + Artificial Intelligence & Machine Learning
-experience: Full Stack Developer Intern @ Unified Mentor Pvt. Ltd.
-certified: Oracle Certified Professional — Java SE 17 Developer
+Name: Disha Dewangan
+Role: Final Year B.Tech CSE (AI/ML) Student @ SRM University AP | Class of 2027 | CGPA: 9.19/10
+Focus: Full-Stack Development (MERN) + Artificial Intelligence & Machine Learning
+Experience: Full Stack Developer Intern @ Unified Mentor Pvt. Ltd.
+Certified: Oracle Certified Professional — Java SE 17 Developer
 ```
 
 - 🔭 I'm currently building **full-stack + AI-powered applications** (interview prep tools, LMS platforms, ML systems)
