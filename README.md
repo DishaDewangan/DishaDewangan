@@ -68,9 +68,14 @@ certified: Oracle Certified Professional — Java SE 17 Developer
 **Full Stack Web Developer Intern** — Unified Mentor Pvt. Ltd. *(Remote)*
 `Jun 2025 – Aug 2025`
 
-- Built **MatchHire**, a full-stack job portal with 2 role-based dashboards (Applicant/Admin) using the MERN stack
-- Architected **15+ REST API endpoints** with 4 Mongoose data models for job posting, application tracking & user management
-- Implemented **JWT authentication**, bcrypt hashing, RBAC, and Redux Toolkit state persisted across 10+ pages
+• Developed full-stack job portal MatchHire with 2 role-based dashboards (Applicant/Admin) using the MERN stack (MongoDB,
+Express.js, React.js, Node.js), enabling distinct workflows for recruiters and job seekers.
+
+• Architected 15+ REST API endpoints with MongoDB via Mongoose and 4 data models (User, Company, Job, Application), enabling
+full CRUD operations for job posting, application tracking, and user management.
+
+• Engineered JSON Web Token (JWT) authentication with bcrypt hashing and role-based access control (RBAC),
+middleware-based route protection, and Redux Toolkit state management persisted across 10+ pages via redux-persist
 
 </td>
 </tr>
@@ -142,10 +147,6 @@ certified: Oracle Certified Professional — Java SE 17 Developer
 </div>
 
 <br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=DishaDewangan&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
