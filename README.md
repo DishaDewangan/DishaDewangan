@@ -106,7 +106,7 @@ middleware-based route protection, and Redux Toolkit state management persisted 
 </a>
 
 <a href="https://github.com/DishaDewangan/visionwrite-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DishaDewangan&repo=VisionWrite&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DishaDewangan&repo=visionwrite-app&theme=radical&hide_border=true" />
 </a>
 
 </div>
@@ -117,7 +117,7 @@ middleware-based route protection, and Redux Toolkit state management persisted 
 | 🎯 **[Intervue](https://github.com/DishaDewangan/Intervue)** | AI-powered SaaS interview platform — parses resumes, generates 5 tailored questions per session (Technical/HR modes), voice-driven Q&A with AI feedback via OpenRouter, credit system via Razorpay | React, Node.js, Firebase, Razorpay |
 | 📚 **[LearnItt](https://github.com/DishaDewangan/LearnItt)** | AI-powered LMS with Student/Instructor dashboards, Gemini API smart search cutting lookup time by 40%, Google OAuth, and Razorpay course purchases across 100+ users | MERN, Redux, Gemini API |
 | 🔥 **[CaloriX](https://github.com/DishaDewangan/Calorix)** | ML regression system predicting calories burnt from 7 physiological features — achieved **99.94% R² accuracy** and MAE under 1.5 kcal comparing XGBoost, Linear Regression & Random Forest | Python, XGBoost, Scikit-learn |
-| 🖼️ **[VisionWrite](https://github.com/DishaDewangan/VisionWrite)** | Deep learning image captioning system combining a pre-trained InceptionV3 CNN encoder with an LSTM decoder, trained on Flickr8K (8,000 images); supports Greedy & Beam Search caption generation, evaluated via BLEU-1/BLEU-2 | Python, TensorFlow, Keras, InceptionV3, LSTM |
+| 🖼️ **[VisionWrite](https://github.com/DishaDewangan/visionwrite-app)** | Deep learning image captioning system combining a pre-trained InceptionV3 CNN encoder with an LSTM decoder, trained on Flickr8K (8,000 images); supports Greedy & Beam Search caption generation, evaluated via BLEU-1/BLEU-2 | Python, TensorFlow, Keras, InceptionV3, LSTM |
 
 <br/>
 
