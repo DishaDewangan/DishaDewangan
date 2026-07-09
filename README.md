@@ -105,7 +105,7 @@ middleware-based route protection, and Redux Toolkit state management persisted 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DishaDewangan&repo=Calorix&theme=radical&hide_border=true" />
 </a>
 
-<a href="https://github.com/DishaDewangan/VisionWrite">
+<a href="https://github.com/DishaDewangan/visionwrite-app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DishaDewangan&repo=VisionWrite&theme=radical&hide_border=true" />
 </a>
 
