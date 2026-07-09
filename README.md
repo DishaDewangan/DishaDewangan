@@ -24,10 +24,10 @@ Experience: Full Stack Developer Intern @ Unified Mentor Pvt. Ltd.
 Certified: Oracle Certified Professional — Java SE 17 Developer
 ```
 
-- 🔭 I've built **full-stack + AI-powered applications** (interview prep tools, LMS platforms, ML systems)
+- 🔭 I've built **full-stack + AI-powered applications** (interview prep tools, LMS platforms, ML systems, deep learning models)
 - 💼 Worked as a **Full Stack Developer Intern** at Unified Mentor, building a role-based job portal used by recruiters & applicants
 - 🌱 Deepening my knowledge of **DSA, System Design & Generative AI**
-- 💬 Ask me about **MERN Stack, Machine Learning, or Java**
+- 💬 Ask me about **MERN Stack, Machine Learning, Deep Learning, or Java**
 - 📫 Always open to collaborating on impactful projects
 
 <br/>
@@ -48,7 +48,11 @@ Certified: Oracle Certified Professional — Java SE 17 Developer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -101,6 +105,9 @@ middleware-based route protection, and Redux Toolkit state management persisted 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DishaDewangan&repo=Calorix&theme=radical&hide_border=true" />
 </a>
 
+<a href="https://github.com/DishaDewangan/VisionWrite">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DishaDewangan&repo=VisionWrite&theme=radical&hide_border=true" />
+</a>
 
 </div>
 
@@ -110,6 +117,7 @@ middleware-based route protection, and Redux Toolkit state management persisted 
 | 🎯 **[Intervue](https://github.com/DishaDewangan/Intervue)** | AI-powered SaaS interview platform — parses resumes, generates 5 tailored questions per session (Technical/HR modes), voice-driven Q&A with AI feedback via OpenRouter, credit system via Razorpay | React, Node.js, Firebase, Razorpay |
 | 📚 **[LearnItt](https://github.com/DishaDewangan/LearnItt)** | AI-powered LMS with Student/Instructor dashboards, Gemini API smart search cutting lookup time by 40%, Google OAuth, and Razorpay course purchases across 100+ users | MERN, Redux, Gemini API |
 | 🔥 **[CaloriX](https://github.com/DishaDewangan/Calorix)** | ML regression system predicting calories burnt from 7 physiological features — achieved **99.94% R² accuracy** and MAE under 1.5 kcal comparing XGBoost, Linear Regression & Random Forest | Python, XGBoost, Scikit-learn |
+| 🖼️ **[VisionWrite](https://github.com/DishaDewangan/VisionWrite)** | Deep learning image captioning system combining a pre-trained InceptionV3 CNN encoder with an LSTM decoder, trained on Flickr8K (8,000 images); supports Greedy & Beam Search caption generation, evaluated via BLEU-1/BLEU-2 | Python, TensorFlow, Keras, InceptionV3, LSTM |
 
 <br/>
 
